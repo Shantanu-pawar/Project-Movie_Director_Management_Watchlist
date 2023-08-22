@@ -8,11 +8,12 @@
 
 ## Model Classes:
 
-Defining Movie and Director classes as model entities.
-Properties include name, duration, IMDb rating, and more.
-Constructors for no-args and all-args scenarios.
-Getters and setters to access and manipulate properties.
-Controller Class - MovieController.java:
+* Defining **Movie** and **Director** classes as model entities. <br>
+* Properties include name, duration, IMDb rating, and more. <br>
+* Constructors for no-args and all-args scenarios.<br>
+* Getters and setters to access and manipulate properties.<br>
+  
+## Controller Class - MovieController.java:
 
 Implementing RESTful endpoints for CRUD operations:
 Adding movies and directors individually.
