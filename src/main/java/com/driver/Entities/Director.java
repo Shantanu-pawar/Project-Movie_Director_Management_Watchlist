@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver.Entities;
 
 public class Director {
     private String name;

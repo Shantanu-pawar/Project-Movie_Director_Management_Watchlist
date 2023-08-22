@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver.Entities;
 
 public class Movie  {
     private String name;

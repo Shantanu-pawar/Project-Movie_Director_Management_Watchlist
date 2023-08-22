@@ -1,5 +1,7 @@
-package com.driver;
+package com.driver.Repository;
 
+import com.driver.Entities.Director;
+import com.driver.Entities.Movie;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
