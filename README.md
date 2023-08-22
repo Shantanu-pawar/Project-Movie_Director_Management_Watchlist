@@ -15,16 +15,17 @@
   
 ## Controller Class - MovieController.java:
 
-Implementing RESTful endpoints for CRUD operations:
-Adding movies and directors individually.
-Pairing existing movies with directors.
-Retrieving movie and director information.
-Getting movie names for a director.
-Listing all movie names.
-Deleting directors and their associated movies.
-Utilizing Spring annotations for URL mapping and HTTP methods.
-Using ResponseEntity to encapsulate responses with appropriate status codes.
-Service Class - MovieService.java:
+* Implementing RESTful endpoints for CRUD operations: <br>
+    Adding movies and directors individually.<br>
+    Pairing existing movies with directors.<br>
+    Retrieving movie and director information.<br>
+    Getting movie names for a director.<br>
+    Listing all movie names.<br>
+    Deleting directors and their associated movies.<br>
+* Utilizing Spring annotations for URL mapping and HTTP methods.<br>
+* Using ResponseEntity to encapsulate responses with appropriate status codes.<br>
+
+## Service Class - MovieService.java:
 
 Encapsulating business logic for operations defined in the controller.
 Handling interactions between the controller and the repository.
